@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Danica-T/danicatruong/static/css/main.25dc5e24.css",
-    "main.js": "/Danica-T/danicatruong/static/js/main.7aa652f3.js",
-    "static/js/453.b05d8aa5.chunk.js": "/Danica-T/danicatruong/static/js/453.b05d8aa5.chunk.js",
+    "main.js": "/Danica-T/danicatruong/static/js/main.4edf858c.js",
+    "static/js/453.f5388a26.chunk.js": "/Danica-T/danicatruong/static/js/453.f5388a26.chunk.js",
     "static/media/title.png": "/Danica-T/danicatruong/static/media/title.26a46833cf577ce54e3c.png",
     "static/media/raytracing.png": "/Danica-T/danicatruong/static/media/raytracing.5e7bc192bc25165765b5.png",
     "static/media/bg-light.png": "/Danica-T/danicatruong/static/media/bg-light.bac0efb485244a522981.png",
@@ -15,11 +15,11 @@
     "static/media/modeling.png": "/Danica-T/danicatruong/static/media/modeling.704d61974af1df04cc6e.png",
     "index.html": "/Danica-T/danicatruong/index.html",
     "main.25dc5e24.css.map": "/Danica-T/danicatruong/static/css/main.25dc5e24.css.map",
-    "main.7aa652f3.js.map": "/Danica-T/danicatruong/static/js/main.7aa652f3.js.map",
-    "453.b05d8aa5.chunk.js.map": "/Danica-T/danicatruong/static/js/453.b05d8aa5.chunk.js.map"
+    "main.4edf858c.js.map": "/Danica-T/danicatruong/static/js/main.4edf858c.js.map",
+    "453.f5388a26.chunk.js.map": "/Danica-T/danicatruong/static/js/453.f5388a26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25dc5e24.css",
-    "static/js/main.7aa652f3.js"
+    "static/js/main.4edf858c.js"
   ]
 }
