@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Danica-T/DanicaTruongPortfolio/static/css/main.6c6fd8c0.css",
+    "main.js": "/Danica-T/DanicaTruongPortfolio/static/js/main.5db661a7.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Danica-T/DanicaTruongPortfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/title.png": "/Danica-T/DanicaTruongPortfolio/static/media/title.26a46833cf577ce54e3c.png",
+    "static/media/raytracing.png": "/Danica-T/DanicaTruongPortfolio/static/media/raytracing.5e7bc192bc25165765b5.png",
+    "static/media/bg-light.png": "/Danica-T/DanicaTruongPortfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/thesis.png": "/Danica-T/DanicaTruongPortfolio/static/media/thesis.bffd71a719c3e16b988d.png",
+    "static/media/bg-dark.png": "/Danica-T/DanicaTruongPortfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/imageEditing.png": "/Danica-T/DanicaTruongPortfolio/static/media/imageEditing.c66a1e8f8698a4c6db4e.png",
+    "static/media/apple.png": "/Danica-T/DanicaTruongPortfolio/static/media/apple.4e37e6ca2cad3846e39e.png",
+    "static/media/Cloth.png": "/Danica-T/DanicaTruongPortfolio/static/media/Cloth.45b0aa846b69ba9c5518.png",
+    "static/media/rasterizer.png": "/Danica-T/DanicaTruongPortfolio/static/media/rasterizer.ee6f01cf1a4880bbef3a.png",
+    "static/media/modeling.png": "/Danica-T/DanicaTruongPortfolio/static/media/modeling.704d61974af1df04cc6e.png",
+    "index.html": "/Danica-T/DanicaTruongPortfolio/index.html",
+    "main.6c6fd8c0.css.map": "/Danica-T/DanicaTruongPortfolio/static/css/main.6c6fd8c0.css.map",
+    "main.5db661a7.js.map": "/Danica-T/DanicaTruongPortfolio/static/js/main.5db661a7.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Danica-T/DanicaTruongPortfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6fd8c0.css",
+    "static/js/main.5db661a7.js"
+  ]
+}
