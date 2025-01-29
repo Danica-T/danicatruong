@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Danica-T/danicatruong/static/css/main.25dc5e24.css",
-    "main.js": "/Danica-T/danicatruong/static/js/main.4edf858c.js",
-    "static/js/453.f5388a26.chunk.js": "/Danica-T/danicatruong/static/js/453.f5388a26.chunk.js",
-    "static/media/title.png": "/Danica-T/danicatruong/static/media/title.26a46833cf577ce54e3c.png",
-    "static/media/raytracing.png": "/Danica-T/danicatruong/static/media/raytracing.5e7bc192bc25165765b5.png",
-    "static/media/bg-light.png": "/Danica-T/danicatruong/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/thesis.png": "/Danica-T/danicatruong/static/media/thesis.bffd71a719c3e16b988d.png",
-    "static/media/bg-dark.png": "/Danica-T/danicatruong/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/imageEditing.png": "/Danica-T/danicatruong/static/media/imageEditing.c66a1e8f8698a4c6db4e.png",
-    "static/media/apple.png": "/Danica-T/danicatruong/static/media/apple.4e37e6ca2cad3846e39e.png",
-    "static/media/Cloth.png": "/Danica-T/danicatruong/static/media/Cloth.45b0aa846b69ba9c5518.png",
-    "static/media/rasterizer.png": "/Danica-T/danicatruong/static/media/rasterizer.ee6f01cf1a4880bbef3a.png",
-    "static/media/modeling.png": "/Danica-T/danicatruong/static/media/modeling.704d61974af1df04cc6e.png",
-    "index.html": "/Danica-T/danicatruong/index.html",
-    "main.25dc5e24.css.map": "/Danica-T/danicatruong/static/css/main.25dc5e24.css.map",
-    "main.4edf858c.js.map": "/Danica-T/danicatruong/static/js/main.4edf858c.js.map",
-    "453.f5388a26.chunk.js.map": "/Danica-T/danicatruong/static/js/453.f5388a26.chunk.js.map"
+    "main.css": "/danicatruong/static/css/main.fee279db.css",
+    "main.js": "/danicatruong/static/js/main.7b6ebddb.js",
+    "static/js/453.f5388a26.chunk.js": "/danicatruong/static/js/453.f5388a26.chunk.js",
+    "static/media/title.png": "/danicatruong/static/media/title.26a46833cf577ce54e3c.png",
+    "static/media/raytracing.png": "/danicatruong/static/media/raytracing.5e7bc192bc25165765b5.png",
+    "static/media/bg-light.png": "/danicatruong/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/thesis.png": "/danicatruong/static/media/thesis.bffd71a719c3e16b988d.png",
+    "static/media/bg-dark.png": "/danicatruong/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/imageEditing.png": "/danicatruong/static/media/imageEditing.c66a1e8f8698a4c6db4e.png",
+    "static/media/apple.png": "/danicatruong/static/media/apple.4e37e6ca2cad3846e39e.png",
+    "static/media/Cloth.png": "/danicatruong/static/media/Cloth.45b0aa846b69ba9c5518.png",
+    "static/media/rasterizer.png": "/danicatruong/static/media/rasterizer.ee6f01cf1a4880bbef3a.png",
+    "static/media/modeling.png": "/danicatruong/static/media/modeling.704d61974af1df04cc6e.png",
+    "index.html": "/danicatruong/index.html",
+    "main.fee279db.css.map": "/danicatruong/static/css/main.fee279db.css.map",
+    "main.7b6ebddb.js.map": "/danicatruong/static/js/main.7b6ebddb.js.map",
+    "453.f5388a26.chunk.js.map": "/danicatruong/static/js/453.f5388a26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25dc5e24.css",
-    "static/js/main.4edf858c.js"
+    "static/css/main.fee279db.css",
+    "static/js/main.7b6ebddb.js"
   ]
 }
