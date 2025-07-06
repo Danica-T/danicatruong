@@ -2,7 +2,7 @@
   "name": "danica-truong",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Danica-T.github.io/danicatruong",
+  "homepage": "https://Danica-T.github.io",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
